@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie db</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="Retry">Retry</string>
+    <string name="ResulCouldNotBeLoaded">"Result could not be loaded</string>
+    <string name="data_gagak_dimuat">Data gagal dimuat</string>
+    <string name="dataNotFound">Movie tidak ditemukan</string>
+</resources>
