@@ -3,7 +3,8 @@
 * MVVM
 * Retrofit
 * view model
-* ci cd use circle ci
+* CI/CD use circle ci
+* dependency injection => dagger
 
 
 
