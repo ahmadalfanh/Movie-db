@@ -3,7 +3,7 @@
 * MVVM
 * Retrofit
 * view model
-* CI/CD use circle ci
+* Modularization
 * dependency injection => dagger
 
 
